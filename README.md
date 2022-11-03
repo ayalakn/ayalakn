@@ -1,17 +1,13 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+[![Header](https://github.com/ayalakn)
+## I am in the process of retraining to QA Engineer&Fullstack Developer 
+## A creator of "Ayalagrafika" Youtube channel 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV](https://elegant-marigold-7bd326.netlify.app/)
 
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [GitHub &lpar;git&rpar; для тестировщика. Полный курс](https://www.youtube.com/watch?v=GviyJKK6yD8)
-- [Организация процесса тестирования &lpar;QA&rpar; на пальцах](https://www.youtube.com/watch?v=LoQUf0UREZ0)
-- [Портфолио для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=ORSti2aYnEE)
-- [Фишки LinkedIn, которые помогут найти тебе работу тестировщиком &lpar;QA&rpar;](https://www.youtube.com/watch?v=u2Q_iTNRvD4)
-- [Команда разработки. Часть 2](https://www.youtube.com/watch?v=0cDLHfe9kP0)
+- https://www.youtube.com/user/ayalagrafika
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
