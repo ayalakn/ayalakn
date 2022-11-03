@@ -27,6 +27,6 @@
 - [Checklists](https://github.com/ayalakn/checklists.git)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
 - [Bug-Reports](https://github.com/ayalakn/bugreports.git)
-- [SQL Queries](https://github.com/artichokeee/SQL)
+- [SQL Queries](https://github.com/ayalakn/sql--requests.git)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
