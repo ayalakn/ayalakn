@@ -1,4 +1,4 @@
-[![Header](https://github.com/ayalakn)
+
 ## I am in the process of retraining to QA Engineer&Fullstack Developer 
 ## A creator of "Ayalagrafika" Youtube channel 
 ## My CV
