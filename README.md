@@ -28,5 +28,5 @@
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
 - [Bug-Reports](https://github.com/ayalakn/bugreports.git)
 - [SQL Queries](https://github.com/ayalakn/sql--requests.git)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections](https://www.postman.com/gold-shadow-300458/workspace/udemy/collection/23655093-2459c77f-6cc7-49e5-92a1-0cc71ebdaeed?action=share&creator=23655093&ctx=documentation)
 
