@@ -1,6 +1,6 @@
 
 ## I am in the process of retraining to QA Engineer&Fullstack Developer 
-## A creator of "Ayalaגרפיקה" Youtube channel 
+ 
 ## My CV
 [Link to my CV](https://elegant-marigold-7bd326.netlify.app/)
 
